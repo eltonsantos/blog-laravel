@@ -30,4 +30,5 @@ Vejo se tem algo pra trazer do git
 Mando as coisas pro git
 
 **git status**
+
 Vejo novamente se tem mais alguma coisa
