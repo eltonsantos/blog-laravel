@@ -38,6 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
+                <h1>Bem vindo!</h1>
                 <div class="title">Tela de home - Direcionado após o login/registro</div>
                
             </div>
